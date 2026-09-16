@@ -22,6 +22,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		0F906C49305AE1E200029F28 /* Resources */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		5C0000000000000000000008 /* ScratchCard */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ScratchCard;
@@ -55,6 +60,7 @@
 		5C0000000000000000000006 = {
 			isa = PBXGroup;
 			children = (
+				0F906C49305AE1E200029F28 /* Resources */,
 				5C0000000000000000000008 /* ScratchCard */,
 				5C0000000000000000000009 /* ScratchCardTests */,
 				5C0000000000000000000007 /* Products */,
@@ -86,6 +92,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				0F906C49305AE1E200029F28 /* Resources */,
 				5C0000000000000000000008 /* ScratchCard */,
 			);
 			name = ScratchCard;
